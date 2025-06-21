@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.54.0",
+    "react-markdown": "^10.1.0"
+  }
+}
